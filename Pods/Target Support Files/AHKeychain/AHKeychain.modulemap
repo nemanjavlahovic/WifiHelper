@@ -1,0 +1,6 @@
+framework module AHKeychain {
+  umbrella header "AHKeychain-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_WifiHelper {
+  umbrella header "Pods-WifiHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
